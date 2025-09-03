@@ -7,6 +7,9 @@ Today, we’ll do a super simple project:
 2. Train a basic model  
 3. Draw a graph  
 
+![xkcd — Machine Learning](https://imgs.xkcd.com/comics/machine_learning.png)
+*Image: xkcd — “Machine Learning” (CC BY-NC 2.5).*
+
 ---
 
 ## 🔹 Agenda (Structure of this Blog)
@@ -46,7 +49,7 @@ If you’re using Jupyter Notebook, run this inside a cell:
 
 ## 🔹 What is Pandas?
 
-Pandas is a Python library that helps you work with data easily. Think of it as Excel inside Python.
+Pandas is a Python library that helps you work with data easily. The name comes from “Panel Data”, not the cute animal 🐼 (though the logo is a panda!). Think of it as Excel inside Python.
 
 - You can load data (from CSV/Excel files).
 - Clean it (fix missing values, remove duplicates).
