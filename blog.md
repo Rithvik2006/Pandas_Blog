@@ -200,7 +200,7 @@ plt.show()
 
 ## 🔹 Try It Yourself!
 
-👉 Dataset Link again: [Student Scores CSV](https://raw.githubusercontent.com/ChatreshGudi/Datasets/main/student_scores.csv)
+👉 Dataset Link again: [Student Scores CSV](studentscores.csv)
 
 Now it’s your turn! Try changing the dataset, like predicting:
 - [House prices](house_prices.csv) 🏡
