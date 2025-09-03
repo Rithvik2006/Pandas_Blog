@@ -126,7 +126,7 @@ Now let’s bring everything together.
 
 Here’s a simple dataset you can use (CSV file):
 
-📂 [Download Student Scores Dataset](https://raw.githubusercontent.com/ChatreshGudi/Datasets/main/student_scores.csv)
+📂 [Download Student Scores Dataset](studentscores.csv)
 
 This dataset has:
 - **Hours** → How many hours a student studied
