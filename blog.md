@@ -8,7 +8,6 @@ Today, we’ll do a super simple project:
 3. Draw a graph  
 
 ![xkcd — Machine Learning](https://imgs.xkcd.com/comics/machine_learning.png)
-*Image: xkcd — “Machine Learning” (CC BY-NC 2.5).*
 
 ---
 
