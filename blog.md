@@ -172,7 +172,8 @@ from sklearn.linear_model import LinearRegression
 X = data[["Hours"]]   # Features
 y = data["Scores"]    # Target
 
-model = LinearRegression()
+model = LinearRegression()  #Creates a new Linear Regression model (like an empty calculator that doesn’t know anything yet).
+
 model.fit(X, y)
 
 # Predict for 5 hours of study
