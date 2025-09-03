@@ -2,12 +2,13 @@
 
 So you’ve heard about Data Science everywhere—Netflix uses it, doctors use it, even sports teams use it. But how do you get started? Don’t worry, you don’t need a PhD or fancy math to begin.
 
+![xkcd — Machine Learning](https://imgs.xkcd.com/comics/machine_learning.png)
+
 Today, we’ll do a super simple project:
 1. Load Data  
 2. Train a basic model  
 3. Draw a graph  
 
-![xkcd — Machine Learning](https://imgs.xkcd.com/comics/machine_learning.png)
 
 ---
 
