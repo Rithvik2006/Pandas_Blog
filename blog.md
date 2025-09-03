@@ -82,11 +82,10 @@ Suppose we collected data from 6 students:
 | 6 | 85 |
 
 First, we can plot this data as a scatter plot:
-<img width="665" height="375" alt="Chart" src="https://github.com/user-attachments/assets/00e382ad-2987-4da7-973e-01532840cdf0" />
-
+<img width="665" height="375" alt="Chart (1)" src="https://github.com/user-attachments/assets/ff1377e0-ff9e-4126-b212-10b198966659" />
 
 Then, we fit a **linear regression line**:
-![Linear Regression Line](https://raw.githubusercontent.com/ChatreshGudi/Datasets/main/images/linear_regression_example.png)
+
 
 👉 As you can see, the red line is the **“best fit line”**. If a new student studies 5 hours, we can use this line to **predict their marks** (around 75).
 
