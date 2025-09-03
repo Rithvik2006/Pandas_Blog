@@ -56,6 +56,7 @@ Pandas is a Python library that helps you work with data easily. The name comes 
 - Analyze it (find averages, group by categories).
 
 👉 In short: **Pandas makes handling data simple.**
+![xkcd — Python Environment](https://pin.it/72Zgf9eye)
 
 ---
 
