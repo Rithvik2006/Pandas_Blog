@@ -177,7 +177,7 @@ model = LinearRegression()  #Creates a new Linear Regression model (like an empt
 model.fit(X, y)
 
 # Predict for 5 hours of study
-pred = model.predict([[5]])
+pred = model.predict([[5]])  #Take x = 5 (hours studied), plug it into the best-fit line equation (y = m×x + c), and give me the predicted y (marks).
 print("Predicted Score for 5 hours:", pred[0])
 ```
 
