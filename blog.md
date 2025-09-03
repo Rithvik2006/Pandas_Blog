@@ -203,8 +203,8 @@ plt.show()
 👉 Dataset Link again: [Student Scores CSV](https://raw.githubusercontent.com/ChatreshGudi/Datasets/main/student_scores.csv)
 
 Now it’s your turn! Try changing the dataset, like predicting:
-- House prices 🏡
-- Salary vs experience 💼
-- Calories burned vs exercise duration 🏃
+- [House prices](house_prices.csv) 🏡
+- [Salary vs experience](salary_data.csv) 💼
+- [Calories burned vs exercise duration](calories_burned.csv) 🏃
 
 ✅ And that’s it! You just built your first machine learning model 🎉
