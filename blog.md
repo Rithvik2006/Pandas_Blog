@@ -69,6 +69,26 @@ Imagine you want to predict your marks based on how many hours you study. If you
 
 Linear regression simply draws the **best straight line** through those points to make predictions.
 
+### 📊 Example: Hours vs. Marks
+Suppose we collected data from 6 students:
+
+| Hours Studied | Marks Scored |
+|---------------|--------------|
+| 1 | 35 |
+| 2 | 40 |
+| 3 | 50 |
+| 4 | 60 |
+| 5 | 75 |
+| 6 | 85 |
+
+First, we can plot this data as a scatter plot:
+![Scatter Plot of Data](https://raw.githubusercontent.com/ChatreshGudi/Datasets/main/images/scatter_example.png)
+
+Then, we fit a **linear regression line**:
+![Linear Regression Line](https://raw.githubusercontent.com/ChatreshGudi/Datasets/main/images/linear_regression_example.png)
+
+👉 As you can see, the red line is the **“best fit line”**. If a new student studies 5 hours, we can use this line to **predict their marks** (around 75).
+
 ---
 
 ## 🔹 What is Scikit-learn?
