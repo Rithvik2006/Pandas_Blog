@@ -2,7 +2,7 @@
 
 So you’ve heard about Data Science everywhere—Netflix uses it, doctors use it, even sports teams use it. But how do you get started? Don’t worry, you don’t need a PhD or fancy math to begin.
 
-![xkcd — Machine Learning](https://imgs.xkcd.com/comics/machine_learning.png)
+![Machine Learning](Images/machine_learning.png)
 
 Today, we’ll do a super simple project:
 1. Load Data  
@@ -82,11 +82,11 @@ Suppose we collected data from 6 students:
 | 6 | 85 |
 
 First, we can plot this data as a scatter plot:
-<img width="850" height="505" alt="Graph (1)" src="https://github.com/user-attachments/assets/01f7f469-6b40-4581-96c6-650bf0e65946" />
+![Scatter Plot](Images/Scatter_plot.png)
 
 
 Then, we fit a **linear regression line**:
-<img width="850" height="505" alt="Graph" src="https://github.com/user-attachments/assets/4930ca0b-b00a-4aea-a156-3583b2386ea7" />
+![Scatter Plot with line of best fit](Images/Scatter_plot_with_line_of_best_fit.png)
 
 
 👉 As you can see, the red line is the **“best fit line”**. If a new student studies 5 hours, we can use this line to **predict their marks** (around 75).
@@ -126,7 +126,7 @@ Now let’s bring everything together.
 
 Here’s a simple dataset you can use (CSV file):
 
-📂 [Download Student Scores Dataset](studentscores.csv)
+📂 [Download Student Scores Dataset](Datasets/studentscores.csv)
 
 This dataset has:
 - **Hours** → How many hours a student studied
@@ -200,11 +200,11 @@ plt.show()
 
 ## 🔹 Try It Yourself!
 
-👉 Dataset Link again: [Student Scores CSV](studentscores.csv)
+👉 Dataset Link again: [Student Scores CSV](Datasets/studentscores.csv)
 
 Now it’s your turn! Try changing the dataset, like predicting:
-- [House prices](house_prices.csv) 
-- [Salary vs experience](salary_data.csv) 
-- [Calories burned vs exercise duration](calories_burned.csv) 
+- [House prices](Datasets/house_prices.csv) 
+- [Salary vs experience](Datasets/salary_data.csv) 
+- [Calories burned vs exercise duration](Datasets/calories_burned.csv) 
 
 And that’s it! You just built your first machine learning model 🎉
