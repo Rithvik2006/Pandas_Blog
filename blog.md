@@ -161,10 +161,20 @@ If Pandas is like Excel for Python, then Matplotlib is like having Excel charts 
 
 With just a few lines of code, you can make:
 - Line plots → Show trends over time (e.g., stock prices, temperature changes).
+  
+  ![Line Plot](Examples/line_plot.png)
 - Bar charts → Compare categories (e.g., sales by region).
+  
+  ![Bar Chart](Examples/bar_chart.png)
 - Scatter plots → Show relationships between two variables (e.g., hours studied vs. marks scored).
+  
+  ![Scatter Plot](Examples/scatter_plot.png)
 - Histograms → Show distributions (e.g., how exam scores are spread across students).
+  
+  ![Histogram](Examples/histogram.png)
 - Pie charts → Show proportions (e.g., market share of companies).
+  
+  ![Pie Chart](Examples/pie_chart.png)
 
 You can check out some example graphs and plots in the section "Examples for MatplotLib Graphs" [here](https://colab.research.google.com/drive/19ACGqbPuPAPrKbFLm2H3IE5_WqUvGeXs?usp=sharing). -> we'll learn in detail in the upcoming blogs
 
