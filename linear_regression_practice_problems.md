@@ -49,4 +49,4 @@ Years of Experience vs Salary (in ₹):
 
 ---
 
-✍️ Try plotting these datasets, draw the best fit line, and make predictions!  
+Try plotting these datasets, draw the best fit line, and make predictions!  
