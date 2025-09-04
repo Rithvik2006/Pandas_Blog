@@ -1,3 +1,4 @@
+![Cover Image](Images/Cover_Image.png)
 # YOUR FIRST DATA SCIENCE PROJECT: FROM CSV TO GRAPHS IN PYTHON
 
 So you’ve heard about Data Science everywhere—Netflix uses it, doctors use it, even sports teams use it. But how do you get started? Don’t worry, you don’t need a PhD or fancy math to begin.
