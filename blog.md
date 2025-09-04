@@ -149,6 +149,8 @@ data = pd.read_csv("student_scores.csv")
 print(data.head())
 ```
 
+Output:
+![Output 1](Outputs/step2.png)
 ---
 
 ### Step 3: Visualize the Data
@@ -163,6 +165,8 @@ plt.title("Study Hours vs Marks")
 plt.show()
 ```
 
+Output:
+![Output 2](Outputs/step3.png)
 ---
 
 ### Step 4: Train Linear Regression Model
@@ -182,6 +186,8 @@ pred = model.predict([[5]])  #Take x = 5 (hours studied), plug it into the best-
 print("Predicted Score for 5 hours:", pred[0])
 ```
 
+Output:
+![Output 3](Outputs/step4.png)
 ---
 
 ### Step 5: Plot the Regression Line
@@ -197,6 +203,8 @@ plt.title("Linear Regression - Study Hours vs Marks")
 plt.show()
 ```
 
+Output:
+![Output 4](Outputs/step5.png)
 ---
 
 ## Try It Yourself!
