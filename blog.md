@@ -86,9 +86,8 @@ Linear regression is one of the simplest machine learning algorithms. It tries t
 - If there is only one input variable, it’s called Simple Linear Regression.
 - If there are two or more input variables, it’s called Multiple Linear Regression.
 
-The mathematical equation of a line is:
-
-𝑦 = 𝑚𝑥 + 𝑐
+The mathematical equation of a line is
+y = mx + c
 
 Imagine you want to predict your marks based on how many hours you study. If you plot hours studied vs marks, the points may look like they form a line.
 
