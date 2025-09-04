@@ -65,6 +65,7 @@ Some common use cases:
 - **Integration:** Works seamlessly with NumPy, Matplotlib, Seaborn, and Scikit-Learn for data science and machine learning. -> you will see integration with Scikit-Learn and Matplotlib in this blog.
 
 Why Not Just Use Excel?
+
 Think of Pandas as Excel on steroids:
 - It can handle much larger datasets (millions of rows).
 - You can automate repetitive tasks instead of clicking around.
