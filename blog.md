@@ -137,7 +137,7 @@ This dataset has:
 
 ### Step 2: Load the Dataset
 
-We’ll use Pandas to read it:
+We’ll use Pandas to read it: 
 
 ```python
 import pandas as pd
@@ -148,8 +148,8 @@ data = pd.read_csv("student_scores.csv")
 # Show first 5 rows
 print(data.head())
 ```
-
 Output:
+
 ![Output 1](Outputs/step2.png)
 ---
 
@@ -166,6 +166,7 @@ plt.show()
 ```
 
 Output:
+
 ![Output 2](Outputs/step3.png)
 ---
 
@@ -187,6 +188,7 @@ print("Predicted Score for 5 hours:", pred[0])
 ```
 
 Output:
+
 ![Output 3](Outputs/step4.png)
 ---
 
@@ -204,6 +206,7 @@ plt.show()
 ```
 
 Output:
+
 ![Output 4](Outputs/step5.png)
 ---
 
