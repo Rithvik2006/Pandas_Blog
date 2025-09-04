@@ -201,7 +201,7 @@ plt.show()
 
 ## Try It Yourself!
 
-👉 Dataset Link again: [Student Scores CSV](Datasets/studentscores.csv)
+📂 Dataset Link again: [Student Scores CSV](Datasets/studentscores.csv)
 
 Now it’s your turn! Try changing the dataset, like predicting:
 - [House prices](Datasets/house_prices.csv) 
