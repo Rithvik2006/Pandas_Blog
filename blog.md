@@ -115,6 +115,10 @@ Then, we fit a **linear regression line**:
 
 👉 As you can see, the red line is the **“best fit line”**. If a new student studies 5 hours, we can use this line to **predict their marks** (around 75).
 
+You can practice some problems on Linear Regression here: 
+
+📂 [Linear Regression Problems](linear_regression_practice_problems.md)
+
 ---
 
 ## What is Scikit-learn?
