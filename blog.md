@@ -13,7 +13,7 @@ Today, we’ll do a super simple project:
 
 ---
 
-## 🔹 Agenda (Structure of this Blog)
+## Agenda (Structure of this Blog)
 
 Here’s what we’ll cover:
 
@@ -27,7 +27,7 @@ Here’s what we’ll cover:
 
 ---
 
-## 🔹 Setting Up the Environment
+## Setting Up the Environment
 
 Before we start, we need a few libraries. Open your terminal/command prompt and run:
 
@@ -48,7 +48,7 @@ What each library does:
 
 ---
 
-## 🔹 What is Pandas?
+## What is Pandas?
 
 Pandas is a Python library that helps you work with data easily. The name comes from “Panel Data”, not the cute animal 🐼 (though the logo is a panda!). Think of it as Excel inside Python.
 
@@ -62,7 +62,7 @@ Pandas is a Python library that helps you work with data easily. The name comes 
 
 ---
 
-## 🔹 What is Linear Regression?
+## What is Linear Regression?
 
 Linear regression is one of the simplest machine learning algorithms.
 
@@ -94,7 +94,7 @@ Then, we fit a **linear regression line**:
 
 ---
 
-## 🔹 What is Scikit-learn?
+## What is Scikit-learn?
 
 Scikit-learn is a machine learning library in Python. It gives us ready-to-use tools like:
 
@@ -107,7 +107,7 @@ Scikit-learn is a machine learning library in Python. It gives us ready-to-use t
 
 ---
 
-## 🔹 What is Matplotlib?
+## What is Matplotlib?
 
 Matplotlib is a visualization library. It helps us make graphs and plots so we can **see patterns in data**.
 
@@ -119,7 +119,7 @@ Matplotlib is a visualization library. It helps us make graphs and plots so we c
 
 ---
 
-## 🔹 Mini Project: Predicting Student Marks
+## Mini Project: Predicting Student Marks
 
 Now let’s bring everything together.
 
@@ -199,7 +199,7 @@ plt.show()
 
 ---
 
-## 🔹 Try It Yourself!
+## Try It Yourself!
 
 👉 Dataset Link again: [Student Scores CSV](Datasets/studentscores.csv)
 
