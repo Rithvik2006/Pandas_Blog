@@ -166,6 +166,8 @@ With just a few lines of code, you can make:
 - Histograms → Show distributions (e.g., how exam scores are spread across students).
 - Pie charts → Show proportions (e.g., market share of companies).
 
+You can check out some example graphs and plots in the section "Examples for MatplotLib Graphs" [here](https://colab.research.google.com/drive/19ACGqbPuPAPrKbFLm2H3IE5_WqUvGeXs?usp=sharing). -> we'll learn in detail in the upcoming blogs
+
 👉 Data is easier to understand when you can see it visually.
 
 ---
