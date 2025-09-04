@@ -52,7 +52,7 @@ What each library does:
 Pandas is a Python library that helps you work with data easily. The name comes from “Panel Data”, not the cute animal 🐼 (though the logo is a panda!). Think of it as Excel inside Python.
 
 - You can load data (from CSV/Excel files).
-- Clean it (fix missing values, remove duplicates).
+- Clean it (fix missing values, remove duplicates). -> topic for another blog
 - Analyze it (find averages, group by categories).
 
 👉 In short: **Pandas makes handling data simple.**
