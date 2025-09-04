@@ -83,7 +83,7 @@ Think of Pandas as Excel on steroids:
 ## What is Linear Regression?
 
 Linear regression is one of the simplest machine learning algorithms. It tries to model the relationship between a dependent variable (what you want to predict) and one or more independent variables (the inputs) by fitting a straight line.
-- If there is only one input variable, it’s called Simple Linear Regression.
+- If there is only one input variable, it’s called Simple Linear Regression. -> we'll focus on this in this blog.
 - If there are two or more input variables, it’s called Multiple Linear Regression.
 
 The mathematical equation of a line is
@@ -123,12 +123,31 @@ You can practice some problems on Linear Regression here:
 
 ## What is Scikit-learn?
 
-Scikit-learn is a machine learning library in Python. It gives us ready-to-use tools like:
+Scikit-learn is one of the most popular and widely used machine learning libraries in Python. It provides a simple, consistent, and well-documented way to build, train, and evaluate machine learning models without having to code the algorithms from scratch.
 
-- Linear Regression
-- Decision Trees
-- Clustering
-- Model evaluation
+Think of it as your ML toolkit: whenever you need a machine learning algorithm, chances are it’s already implemented in Scikit-learn.
+
+- Supervised Learning (when you have labeled data):
+  - Linear Regression (predicting numbers, like prices or marks).
+  - Logistic Regression (classification problems, like spam detection).
+  - Decision Trees & Random Forests.
+  - Support Vector Machines (SVM).
+
+- Unsupervised Learning (when you don’t have labels):
+  - Clustering (e.g., K-Means, to group customers by behavior).
+  - Dimensionality reduction (e.g., PCA, to reduce features).
+
+- Model Selection & Evaluation:
+  - Splitting data into training and testing sets.
+  - Cross-validation.
+  - Accuracy, precision, recall, F1-score, confusion matrices.
+ 
+- Data Preprocessing:
+  - Scaling and normalizing data.
+  - Handling categorical variables.
+  - Feature extraction.
+ 
+You can learn more about these concepts [here](https://nh-club-website.vercel.app/blog/machine-learning-fundamentals-beginners-guide).
 
 👉 Instead of writing algorithms from scratch, we can just use scikit-learn and focus on solving problems.
 
