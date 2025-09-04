@@ -17,10 +17,10 @@ Today, we’ll do a super simple project:
 Here’s what we’ll cover:
 
 - Setting up our environment (installing the right tools)
-- What Pandas is 🐼
-- What Linear Regression is 📈
-- What Scikit-learn is 🤖
-- What Matplotlib is 📊
+- What Pandas is
+- What Linear Regression is
+- What Scikit-learn is
+- What Matplotlib is
 - Building a mini project (Predicting student marks from study hours)
 - Datasets you can download and try yourself
 
@@ -40,7 +40,7 @@ If you’re using Jupyter Notebook, run this inside a cell:
 !pip install pandas scikit-learn matplotlib
 ```
 
-✅ What each library does:
+What each library does:
 - **Pandas** → Work with data tables (like Excel in Python).
 - **Scikit-learn** → Machine learning algorithms (we’ll use Linear Regression).
 - **Matplotlib** → Make charts and graphs.
@@ -110,9 +110,9 @@ Scikit-learn is a machine learning library in Python. It gives us ready-to-use t
 
 Matplotlib is a visualization library. It helps us make graphs and plots so we can **see patterns in data**.
 
-- Line plots 📈
-- Bar charts 📊
-- Scatter plots 🔵
+- Line plots 
+- Bar charts 
+- Scatter plots
 
 👉 Data is easier to understand when you can see it visually.
 
@@ -203,8 +203,8 @@ plt.show()
 👉 Dataset Link again: [Student Scores CSV](studentscores.csv)
 
 Now it’s your turn! Try changing the dataset, like predicting:
-- [House prices](house_prices.csv) 🏡
-- [Salary vs experience](salary_data.csv) 💼
-- [Calories burned vs exercise duration](calories_burned.csv) 🏃
+- [House prices](house_prices.csv) 
+- [Salary vs experience](salary_data.csv) 
+- [Calories burned vs exercise duration](calories_burned.csv) 
 
-✅ And that’s it! You just built your first machine learning model 🎉
+And that’s it! You just built your first machine learning model 🎉
